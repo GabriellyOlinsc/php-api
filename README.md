@@ -1,12 +1,12 @@
 # PHP API RESTful
 
 <p align="center">
-   <img src="https://img.shields.io/static/v1?label=STATUS&message=EM DESENVOLVIMENTO&color=RED&style=for-the-badge" #vitrinedev/>
+   <img src="https://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge" alt="status"/>
 </p>
 
 ## Guia Completo: Rodando API PHP no Visual Studio Code
 
-## 📋 **Pré-requisitos**
+## **Pré-requisitos**
 
 ### 1. **Instalar o PHP**
 
@@ -87,7 +87,7 @@ No VS Code, vá em **Extensions** (Ctrl+Shift+X) e instale:
 
 ---
 
-## 🎯 **Passo a Passo para Rodar o Projeto**
+##  **Passo a Passo para Rodar o Projeto**
 
 ### **Passo 1: Criar e Organizar os Arquivos**
 
